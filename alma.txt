@@ -6,3 +6,12 @@ Login:
 Password:
 
 Login gomb
+
+Ide létrehozok egy Regist formot
+
+Email:
+Password:
+Password again:
+Birth date:
+
+Regist gomb
