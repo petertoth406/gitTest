@@ -3,7 +3,7 @@ Alma
 Ide teszek egy login formot:
 
 Login:
-Password:rgeniulgbuaerlib gzuikaw4bgzuk
+Password:
 
 Login gomb (Kék)
 
