@@ -5,7 +5,7 @@ Ide teszek egy login formot:
 Login:
 Password:
 
-Login gomb
+Login gomb (Zöld)
 
 Ide létrehozok egy Regist formot
 
